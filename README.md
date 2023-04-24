@@ -10,4 +10,4 @@ $ python3 main.py
 
 I may write a Makefile for it in the future.
 
-> please excuse the WEIRD physics. I am bad at kode.
+> Please excuse the glitchy physics.
