@@ -25,10 +25,6 @@ def generate(min:int, max:int, length:int):
     return retval
 ```
 
-First, an empty list `retval` is created. Then, a random value is generated...
+> First, an empty list `retval` is created. Then, a random value is generated and assigned to `last_val`. Then
 
-nvm u prob know how it works according to the code.
-
-bye.
-
-also f^^k documentation so bye!
+im too depressed to write anymore documentation also f^^k documentation
