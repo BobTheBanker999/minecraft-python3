@@ -18,7 +18,7 @@ def start_wgen(spriteGroup:pygame.sprite.Group, allSprites:pygame.sprite.Group):
         spriteGroup.add(b2)
         allSprites.add(b2)
 
-    # RENDERER PASS #
+    # RENDERER #
     spriteGroup.add(b)
     allSprites.add(b)
 
